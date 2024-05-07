@@ -12,20 +12,17 @@ public:
         int highest=0;
         for(i;i<size+1;i++){
             if(i==0)
-                difference[i]=0;`
+                difference[i]=0;
             else{
                 difference[i]=difference[i-1]-gain[i-1];
             }
             adjusteddifference[i]=-difference[i];
-            cout<<adjusteddifference[i]<<",";
-
-        }
-        for(i=1;i<size+1;i++){
             if(adjusteddifference[i]>=highest){
                 highest=adjusteddifference[i];
             }
             
         }
+        
         return highest;
     }
 };

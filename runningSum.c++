@@ -7,8 +7,10 @@ class Solution {
 public:
     vector<int> runningSum(vector<int>& nums) {
         vector<int> runningSumArray;
-        int sum = 0;
-        for (int i = 0; i < nums.size(); i++) {
+        runningSumArray.reserve(nums.size());
+        int sum ;
+        int i=0;
+        for ( i; i <nums.size() ; i++) {
             sum += nums[i];
             runningSumArray.push_back(sum);
         }
