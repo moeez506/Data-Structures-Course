@@ -39,3 +39,10 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
 8. https://leetcode.com/problems/repeated-substring-pattern/description/ 
 9. https://leetcode.com/problems/isomorphic-strings/description/
 10. https://leetcode.com/problems/is-subsequence/description/
+
+
+- Stl for C++ Programers (It will help to speed up coding part using built-in functions and short hands)
+- Note: The given lecture have Data structures like set and hashmap which we have'nt studied yet, don't worry we will be having a dedicated lecture on them for now just have a high level idea.
+
+     https://youtu.be/RRVYpIET_RU?si=xI1JBIVbtCkj_Iq7
+
