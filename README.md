@@ -27,3 +27,15 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
 - If you like C++ and more details > My code school Data Structures
 
      https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P (C++)
+
+  ## Week 2- String
+1. https://leetcode.com/problems/jewels-and-stones/description/
+2. https://leetcode.com/problems/reverse-string/description/
+3. https://leetcode.com/problems/merge-strings-alternately/description/ 
+4. https://leetcode.com/problems/fizz-buzz/description/ 
+5. https://leetcode.com/problems/valid-anagram/description/
+6. https://leetcode.com/problems/reverse-vowels-of-a-string/
+7. https://leetcode.com/problems/valid-palindrome/description/
+8. https://leetcode.com/problems/repeated-substring-pattern/description/ 
+9. https://leetcode.com/problems/isomorphic-strings/description/
+10. https://leetcode.com/problems/is-subsequence/description/
