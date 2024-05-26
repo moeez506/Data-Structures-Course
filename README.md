@@ -46,3 +46,13 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
 
      https://youtu.be/RRVYpIET_RU?si=xI1JBIVbtCkj_Iq7
 
+  ## Week 3 - Hashmap
+1. https://leetcode.com/problems/next-greater-element-i/
+2. https://leetcode.com/problems/two-sum/
+3. https://leetcode.com/problems/find-the-difference-of-two-arrays/description/
+4. https://leetcode.com/problems/missing-number/description/
+5. https://leetcode.com/problems/jewels-and-stones/description/
+6. https://leetcode.com/problems/contains-duplicate/description/
+7. https://leetcode.com/problems/length-of-last-word/description/
+8. https://leetcode.com/problems/valid-anagram/description/
+9. https://leetcode.com/problems/search-insert-position/description/
