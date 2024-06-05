@@ -56,8 +56,7 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
 7. https://leetcode.com/problems/length-of-last-word/description/
 8. https://leetcode.com/problems/valid-anagram/description/
 
-
-  ## Week 4 - LinkedList
+   ## Week 4 - LinkedList
 1. https://leetcode.com/problems/reverse-linked-list/description/
 2. https://leetcode.com/problems/middle-of-the-linked-list/description/
 3. https://leetcode.com/problems/linked-list-cycle/description/
