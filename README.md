@@ -56,3 +56,12 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
 7. https://leetcode.com/problems/length-of-last-word/description/
 8. https://leetcode.com/problems/valid-anagram/description/
 
+   ## Week 4 - LinkedList
+1. https://leetcode.com/problems/reverse-linked-list/description/
+2. https://leetcode.com/problems/middle-of-the-linked-list/description/
+3. https://leetcode.com/problems/linked-list-cycle/description/
+4. https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
+5. https://leetcode.com/problems/intersection-of-two-linked-lists/description/
+6. https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
+7. https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/
+8. https://leetcode.com/problems/design-hashmap/description/
