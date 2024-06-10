@@ -9,11 +9,11 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
 - Do not try to jump into problem-solving directly without the necessary pre-requisites, For example
   > If you are trying to solve a problem that requires HashSet/HashMap then make sure you have studied HashMap before solving the problem
   > If you are trying to solve a problem that uses recursion, first make sure you learn recursion properly
-  > If you are trying to solve a problem that uses graphs/trees, first make sure you learn graphs/tree properly
+  > If you are trying to solve a problem that uses graphs/trees, first make sure you learn graphs/trees properly
   > If you are trying to solve a problem that uses dynamic programming, first make sure you learn dynamic programming properly.
-  
-## Week 1- Array
 
+----
+## Week 1- Array
 1. https://leetcode.com/problems/running-sum-of-1d-array/description/
 2. https://leetcode.com/problems/find-the-highest-altitude/
 3. https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/
@@ -28,7 +28,8 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
 
      https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P (C++)
 
-  ## Week 2- String
+----
+## Week 2- String
 1. https://leetcode.com/problems/jewels-and-stones/description/
 2. https://leetcode.com/problems/reverse-string/description/
 3. https://leetcode.com/problems/merge-strings-alternately/description/ 
@@ -41,12 +42,13 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
 10. https://leetcode.com/problems/is-subsequence/description/
 
 
-- Stl for C++ Programers (It will help to speed up coding part using built-in functions and short hands)
-- Note: The given lecture have Data structures like set and hashmap which we have'nt studied yet, don't worry we will be having a dedicated lecture on them for now just have a high level idea.
+- Stl for C++ Programmers (It will help to speed up the coding part using built-in functions and short hands)
+- Note: The given lecture has Data structures like set and hashmap which we haven't studied yet, don't worry we will be having a dedicated lecture on them for now just have a high-level idea.
 
      https://youtu.be/RRVYpIET_RU?si=xI1JBIVbtCkj_Iq7
 
-  ## Week 3 - Hashmap
+----
+## Week 3 - Hashmap
 1. https://leetcode.com/problems/next-greater-element-i/
 2. https://leetcode.com/problems/two-sum/
 3. https://leetcode.com/problems/find-the-difference-of-two-arrays/description/
@@ -56,7 +58,8 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
 7. https://leetcode.com/problems/length-of-last-word/description/
 8. https://leetcode.com/problems/valid-anagram/description/
 
-   ## Week 4 - LinkedList
+----
+## Week 4 - LinkedList
 1. https://leetcode.com/problems/reverse-linked-list/description/
 2. https://leetcode.com/problems/middle-of-the-linked-list/description/
 3. https://leetcode.com/problems/linked-list-cycle/description/
@@ -65,3 +68,13 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
 6. https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
 7. https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/
 8. https://leetcode.com/problems/design-hashmap/description/
+
+----
+## Week 5 - Dynamic Arrays
+1. [Container With Most Water](https://leetcode.com/problems/container-with-most-water)
+2. [Design HashMap](https://leetcode.com/problems/design-hashmap)
+3. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
+4. [Design HashSet](https://leetcode.com/problems/design-hashset)
+5. [Design Browser History](https://leetcode.com/problems/design-browser-history/)
+6. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+7. [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
