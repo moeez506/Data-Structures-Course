@@ -78,3 +78,10 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
 5. [Design Browser History](https://leetcode.com/problems/design-browser-history/)
 6. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 7. [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
+
+----
+## Week 6 - Stack
+1. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
+2. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+3. [Make The String Great](https://leetcode.com/problems/make-the-string-great/)
+4. [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
