@@ -85,3 +85,4 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
 2. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 3. [Make The String Great](https://leetcode.com/problems/make-the-string-great/)
 4. [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
+5. [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)
