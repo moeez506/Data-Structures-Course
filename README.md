@@ -78,3 +78,21 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
 5. [Design Browser History](https://leetcode.com/problems/design-browser-history/)
 6. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 7. [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
+
+----
+## Week 6 - Stack
+1. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
+2. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+3. [Make The String Great](https://leetcode.com/problems/make-the-string-great/)
+4. [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
+5. [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)
+6. [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+
+----
+## Week 7 - Queue
+1. [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)
+2. [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/)
+3. [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+4. [Dota2 Senate](https://leetcode.com/problems/dota2-senate/)
+5. [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
+6. [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
