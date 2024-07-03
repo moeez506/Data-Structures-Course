@@ -96,3 +96,15 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
 4. [Dota2 Senate](https://leetcode.com/problems/dota2-senate/)
 5. [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
 6. [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
+
+----
+## Week 8 - Recursion
+1. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)
+2. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
+3. [Power of Two](https://leetcode.com/problems/power-of-two/)
+4. [Power of Three](https://leetcode.com/problems/power-of-three/)
+5. [Power of Four](https://leetcode.com/problems/power-of-four/description/)
+6. [Pow(x, n)](https://leetcode.com/problems/powx-n/)
+
+- Everyone who crossed the leetcode count 50 must watch the basics of [Time and Space Complexity](https://youtu.be/FPu9Uld7W-E?si=_tlstN7PZsDirIpe).
+- As we are moving towards advance data structures and medium problems for that you must need to have an idea of optimization.
