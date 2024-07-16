@@ -108,3 +108,27 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
 
 - Everyone who crossed the leetcode count 50 must watch the basics of [Time and Space Complexity](https://youtu.be/FPu9Uld7W-E?si=_tlstN7PZsDirIpe).
 - As we are moving towards advance data structures and medium problems for that you must need to have an idea of optimization.
+
+----
+# Phase 2
+
+**Instructions**
+- Understand the problem by yourself
+- If having difficulty find any video on YouTube and watch the starting part to understand the problem then pause the video try your solution.
+- Then watch the solution even if your solution is submitted or not.
+- Recommended channels (Neetcode.io, striver)
+
+## Week 9
+### Array
+1. [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+2. [3Sum](https://leetcode.com/problems/3sum/)
+3. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+4. [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
+5. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+
+### String
+1. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+2. [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
+3. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+4. [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+5. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
