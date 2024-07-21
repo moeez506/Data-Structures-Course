@@ -132,3 +132,19 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
 3. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 4. [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 5. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+
+----
+## Week 10
+### Greedy
+1. [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
+2. [Gas Station](https://leetcode.com/problems/gas-station/)
+3. [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/)
+4. [Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/)
+5. [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)
+
+### Math
+1. [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)
+2. [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
+3. [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
+4. [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/)
+5. [Integer Break](https://leetcode.com/problems/integer-break/)
